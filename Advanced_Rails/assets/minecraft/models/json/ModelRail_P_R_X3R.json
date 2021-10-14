@@ -1,0 +1,12 @@
+{
+  "railName": "P_R2_3R",
+  "model": {
+      "modelFile": "ModelRail_YANE2R_3m.mqo",
+      "textures": [["default", "textures/rail/YANE.png", ""]],
+      "rendererPath": "scripts/RenderYANE1.js"
+  },
+  "ballastWidth": 3,
+	"buttonTexture": "textures/rail/button_YANE1R3m.png",
+  "tags": "BRE AR Rails",
+  "accuracy": "LOW"
+}

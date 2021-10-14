@@ -1,0 +1,15 @@
+{
+  "name": "OER_ConnecterA1",
+  "model": {
+      "modelFile": "PillarOER_A1.mqo",
+      "textures": [["default", "textures/rail/PO2.png", ""]]
+  },
+  "buttonTexture": "textures/rail/button_OER_A1.png",
+  "connectorType":"Relay",
+  "wirePos":[0.0, 0.475, 0.0],
+  "smoothing": true,
+  "doCulling": true,
+  "tags": "BRE AR Rails",
+  "accuracy": "LOW"
+
+}

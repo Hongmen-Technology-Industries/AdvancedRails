@@ -1,0 +1,14 @@
+{
+  "name":"SimpleK2",
+  "model":{
+    "modelFile": "SimpleK2.mqo",
+    "textures": [["default", "textures/rail/WireKER.png", ""]],
+      "rendererPath": "scripts/Wire51/renderWire.js"
+  },
+  "buttonTexture": "textures/rail/button_SimpleK2.png",
+  "deflectionCoefficient":0.0,
+  "sectionLength":10.00,
+  "doCulling": false,
+  "tags": "BRE AR Rails",
+  "smoothing":true
+}

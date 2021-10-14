@@ -1,0 +1,16 @@
+{
+  "name": "BER_03_01A_L",
+  "model": {
+      "modelFile": "BRE_03_01A_L.mqo",
+      "textures": [["default", "textures/rail/BRE_01_01.png", ""]]
+  },
+  "buttonTexture": "textures/rail/button_BRE_03_01A_L.png",
+  "machineType": "Light",
+  "rotateByMetadata": true,
+  "brightness": [0, 0],
+  "smoothing": true,
+  "doCulling": true,
+  "tags": "BRE AR Rails",
+  "accuracy": "LOW"
+}
+

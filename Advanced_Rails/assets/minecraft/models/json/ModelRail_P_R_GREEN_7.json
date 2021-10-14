@@ -1,0 +1,12 @@
+{
+  "railName": "P_R_GREEN_7",
+  "model": {
+      "modelFile": "ModelRail_YANE_7m.mqo",
+      "textures": [["default", "textures/rail/YANE_GREEN.png", ""]],
+      "rendererPath": "scripts/RenderYANE1.js"
+  },
+  "ballastWidth": 7,
+	"buttonTexture": "textures/rail/button_YANE_7m_GREEN.png",
+  "tags": "BRE AR Rails",
+  "accuracy": "LOW"
+}

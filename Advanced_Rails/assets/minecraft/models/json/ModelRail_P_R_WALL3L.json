@@ -1,0 +1,13 @@
+{
+  "railName": "P_R_WALL3L",
+  "model": {
+      "modelFile": "ModelRail_WALL3L.mqo",
+      "textures": [["default", "textures/rail/WALLS.png", "AlphaBlend"]],
+            "rendererPath": "scripts/RenderWALL1.js"
+  },
+  "ballastWidth": 1,
+    "polygonType": 4,
+	"buttonTexture": "textures/rail/button_WALL3L.png",
+  "tags": "BRE AR Rails",
+  "accuracy": "HIGH"
+}

@@ -1,0 +1,14 @@
+{
+  "name":"BRE_01_02F",
+  "model":{
+    "modelFile": "BRE_01_02F.mqo",
+      "textures": [["default", "textures/rail/BRE_01_01.png", ""]],
+      "rendererPath": "scripts/Wire51/renderBeam1.js"
+  },
+  "buttonTexture": "textures/rail/button_BRE_01_02F.png",
+  "deflectionCoefficient":0.0,
+  "sectionLength":10.00,
+  "doCulling": false,
+  "tags": "BRE AR Rails",
+  "smoothing":true
+}

@@ -1,0 +1,11 @@
+{
+  "railName": "P_R_WALL2R",
+  "model": {
+      "modelFile": "ModelRail_WALL2R.mqo",
+      "textures": [["default", "textures/rail/WALLS.png", "AlphaBlend"]]},
+  "ballastWidth": 1,
+    "polygonType": 4,
+	"buttonTexture": "textures/rail/button_WALL2R.png",
+  "tags": "BRE AR Rails",
+  "accuracy": "HIGH"
+}

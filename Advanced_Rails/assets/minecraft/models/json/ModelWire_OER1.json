@@ -1,0 +1,14 @@
+{
+  "name":"OER_Beam",
+  "model":{
+    "modelFile": "BeamOER2.mqo",
+      "textures": [["default", "textures/rail/PO.png", ""]],
+      "rendererPath": "scripts/Wire51/renderBeam1.js"
+  },
+  "buttonTexture": "textures/rail/button_OER_B2.png",
+  "deflectionCoefficient":0.0,
+  "sectionLength":10.00,
+  "doCulling": false,
+  "tags": "BRE AR Rails",
+  "smoothing":true
+}

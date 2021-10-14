@@ -1,0 +1,12 @@
+{
+  "railName": "P_R_SHINJUKU9",
+  "model": {
+      "modelFile": "ModelRail_SHINJUKU_DLINE.mqo",
+      "textures": [["default", "textures/rail/SHINJUKU.png", ""]],
+      "rendererPath": "scripts/RenderYANE1.js"
+  },
+  "ballastWidth": 7,
+	"buttonTexture": "textures/rail/button_SHINJUKU_DLINE.png",
+  "tags": "BRE AR Rails",
+  "accuracy": "LOW"
+}

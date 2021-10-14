@@ -1,0 +1,12 @@
+{
+    "railName": "P_R_WALL1R",
+    "railModel": "ModelRail_WALL1R.mqo",
+    "railTexture": "textures/rail/WALLS.png",
+    "buttonTexture": "textures/rail/button_WALL1R.png",
+    "polygonType": 4,
+    "ballastWidth": 1,
+    "accuracy": "LOW",
+  "tags": "BRE AR Rails",
+    "allowCrossing": true
+}
+
