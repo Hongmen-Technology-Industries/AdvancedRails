@@ -11,7 +11,7 @@
 
 ## 導入
 
-0. Kozu_RE_XまたはBetter_Rail_Electronicsをmodsファイルから削除（すでに導入されている場合）
+0. Kozu_RE_X.zipまたはBetter_Rail_Electronics.zipをmodsファイルから削除（すでに導入されている場合）
 1. Advanced_Rails.zipをmodsフォルダにコピー
 2. Minecraftを起動し、各モデルが追加されていることを確認
 
