@@ -1,8 +1,8 @@
 {
   "name": "BER_03_02B",
   "model": {
-      "modelFile": "BRE_03_02B.mqo",
-      "textures": [["default", "textures/rail/BRE_01_02.png", ""]]
+    "modelFile": "BRE_03_02B.mqo",
+    "textures": [["default", "textures/rail/BRE_01_02.png", ""]]
   },
   "buttonTexture": "textures/rail/button_BRE_03_02B.png",
   "machineType": "Light",
@@ -13,4 +13,3 @@
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }
-

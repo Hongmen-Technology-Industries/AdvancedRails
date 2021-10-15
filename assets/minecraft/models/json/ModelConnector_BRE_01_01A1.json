@@ -1,12 +1,12 @@
 {
   "name": "OER_Pillar_01A1",
   "model": {
-      "modelFile": "BRE_01_01A.mqo",
-      "textures": [["default", "textures/rail/BRE_01_01.png", ""]]
+    "modelFile": "BRE_01_01A.mqo",
+    "textures": [["default", "textures/rail/BRE_01_01.png", ""]]
   },
   "buttonTexture": "textures/rail/button_BRE_01_01A1.png",
-  "connectorType":"Relay",
-  "wirePos":[0.0, 5.1625, 0.0],
+  "connectorType": "Relay",
+  "wirePos": [0.0, 5.1625, 0.0],
   "smoothing": true,
   "doCulling": true,
   "tags": "BRE AR Rails",

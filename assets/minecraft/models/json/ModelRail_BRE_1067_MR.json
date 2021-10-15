@@ -1,12 +1,12 @@
 {
   "railName": "1067mm_Wood!!!!!!!!HTI_Morido_R",
   "model": {
-      "modelFile": "BRE_1067_MR.mqo",
-      "textures": [["default", "textures/rail/bre_01_09.png", ""]],
-      "rendererPath": "scripts/RenderBRERails_01.js"
+    "modelFile": "BRE_1067_MR.mqo",
+    "textures": [["default", "textures/rail/bre_01_09.png", ""]],
+    "rendererPath": "scripts/RenderBRERails_01.js"
   },
   "ballastWidth": 3,
-	"buttonTexture": "textures/railsButton/button_BRERail_MoridoR.png",
+  "buttonTexture": "textures/railsButton/button_BRERail_MoridoR.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }

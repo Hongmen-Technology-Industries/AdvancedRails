@@ -1,12 +1,12 @@
 {
   "railName": "1067mm_Wood!!!!!!!!HTI_1435_01B",
   "model": {
-      "modelFile": "BRE_1435_01A.mqo",
-      "textures": [["default", "textures/rail/bre_01_06.png", ""]],
-      "rendererPath": "scripts/RenderBRERails_01.js"
+    "modelFile": "BRE_1435_01A.mqo",
+    "textures": [["default", "textures/rail/bre_01_06.png", ""]],
+    "rendererPath": "scripts/RenderBRERails_01.js"
   },
   "ballastWidth": 3,
-	"buttonTexture": "textures/rail/button_BRERail_1435_01B.png",
+  "buttonTexture": "textures/rail/button_BRERail_1435_01B.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }

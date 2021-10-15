@@ -1,12 +1,12 @@
 {
   "railName": "P_T_OER2",
   "model": {
-      "modelFile": "ModelRail_OER3.mqo",
-      "textures": [["default", "textures/rail/PF2.png", ""]],
-      "rendererPath": "scripts/RenderOER2.js"
+    "modelFile": "ModelRail_OER3.mqo",
+    "textures": [["default", "textures/rail/PF2.png", ""]],
+    "rendererPath": "scripts/RenderOER2.js"
   },
   "ballastWidth": 3,
-	"buttonTexture": "textures/rail/button_tunnel.png",
+  "buttonTexture": "textures/rail/button_tunnel.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }

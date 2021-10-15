@@ -1,14 +1,14 @@
 {
-  "name":"BRE_01_02D",
-  "model":{
+  "name": "BRE_01_02D",
+  "model": {
     "modelFile": "BRE_01_02D.mqo",
-      "textures": [["default", "textures/rail/BRE_01_04.png", ""]],
-      "rendererPath": "scripts/Wire51/renderBeam1.js"
+    "textures": [["default", "textures/rail/BRE_01_04.png", ""]],
+    "rendererPath": "scripts/Wire51/renderBeam1.js"
   },
   "buttonTexture": "textures/rail/button_BRE_01_02D.png",
-  "deflectionCoefficient":0.0,
-  "sectionLength":10.00,
+  "deflectionCoefficient": 0.0,
+  "sectionLength": 10.0,
   "doCulling": false,
   "tags": "BRE AR Rails",
-  "smoothing":true
+  "smoothing": true
 }
