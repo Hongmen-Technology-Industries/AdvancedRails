@@ -1,0 +1,26 @@
+name: Prettier
+
+on:
+  pull_request:
+
+env:
+  FILE_PATTERN: "{src,__tests__}/**/*.{js, json}"
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - name: Run Prettier
+        run: |
+          yarn install
+          yarn prettier --write ${FILE_PATTERN}
+      - uses: stefanzweifel/git-auto-commit-action@v3.0.0
+        with:
+          commit_message: Apply Prettier Change
+          ref: ${{ github.head_ref }}
