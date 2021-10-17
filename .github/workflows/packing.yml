@@ -1,0 +1,30 @@
+name: Packed in Zip
+
+on:
+  push:
+
+jobs:
+  packing:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          # Make sure the actual branch is checked out when running on pull requests
+          ref: ${{ github.head_ref }}
+
+      - name: Get shortsha
+        id: vars
+        run: echo ::set-output name=sha_short::$(git rev-parse --short=7 ${{ github.sha }})
+
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v2
+        with:
+          # optional, default is artifact
+          name: AdvancedRails-${{ steps.vars.outputs.sha_short }}.zip
+          # A file, directory or wildcard pattern that describes what to upload
+          path: |
+            **
+            !.*
