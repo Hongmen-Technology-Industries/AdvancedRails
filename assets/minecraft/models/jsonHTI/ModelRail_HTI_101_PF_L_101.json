@@ -1,12 +1,12 @@
 {
   "railName": "1067mm_Wood!!!!!!!!HTI_PF_L_101",
   "model": {
-      "modelFile": "HTI_PF_101.mqo",
-      "textures": [["default", "textures/rail/PF3.png", ""]],
-      "rendererPath": "scripts/RenderAR_01.js"
+    "modelFile": "HTI_PF_101.mqo",
+    "textures": [["default", "textures/rail/PF3.png", ""]],
+    "rendererPath": "scripts/RenderAR_01.js"
   },
   "ballastWidth": 1,
-	"buttonTexture": "textures/railsButton/test.png",
+  "buttonTexture": "textures/railsButton/test.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }
