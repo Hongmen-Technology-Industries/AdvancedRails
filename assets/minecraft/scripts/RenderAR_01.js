@@ -8,7 +8,6 @@ var currentRailIndexField;
 
 function init(par1, par2) {
     pf_01 = renderer.registerParts(new Parts("PF_01"));		//直接置く用
-    pf_02 = renderer.registerParts(new Parts("PF_02"));		//重ねる用
 }
 
 function renderRailStatic(tileEntity, posX, posY, posZ, par8, pass) {
@@ -62,8 +61,9 @@ function renderRailStatic2(tileEntity, par2, par4, par6, index) {
             var roll = rm2.getCant(max, i);
             var yaw = rm2.getRailRotation(max, i);
             var pitch = rm2.getRailPitch(max, i) * -1;
-            var yaw2 = (i == max) ? yaw : rm2.getRailRotation(max, i + 1)
-            var yaw3 = yaw2 - yaw;
+            var yawRad = yaw * (Math.PI / 180);
+			var yawSin = Math.sin(yawRad);
+			var yawCos = Math.cos(yawRad);
             var brightness = renderer.getBrightness(
                 renderer.getWorld(tileEntity),
                 p1[1], renderer.getY(tileEntity), p1[0]);
@@ -77,12 +77,10 @@ function renderRailStatic2(tileEntity, par2, par4, par6, index) {
             if (this.isRightRail(tileEntity, index)) {
                 GL11.glRotatef(180, 0.0, 1.0, 0.0);
             }
-            if (index == 0) {
-                pf_01.render(renderer);
+            if (index != 0) {
+                GL11.glTranslatef(2.0, 1.0, 0.0);
             }
-            else {
-                pf_02.render(renderer);
-            }
+            pf_01.render(renderer);
             GL11.glPopMatrix();
         }
         GL11.glPopMatrix();
