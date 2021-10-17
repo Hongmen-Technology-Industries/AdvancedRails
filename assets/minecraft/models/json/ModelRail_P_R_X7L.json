@@ -1,12 +1,12 @@
 {
   "railName": "P_R2_7L",
   "model": {
-      "modelFile": "ModelRail_YANE2L_7m.mqo",
-      "textures": [["default", "textures/rail/YANE.png", ""]],
-      "rendererPath": "scripts/RenderYANE1.js"
+    "modelFile": "ModelRail_YANE2L_7m.mqo",
+    "textures": [["default", "textures/rail/YANE.png", ""]],
+    "rendererPath": "scripts/RenderYANE1.js"
   },
   "ballastWidth": 7,
-	"buttonTexture": "textures/rail/button_YANE1L7m.png",
+  "buttonTexture": "textures/rail/button_YANE1L7m.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }

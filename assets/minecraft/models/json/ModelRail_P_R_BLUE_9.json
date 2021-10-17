@@ -1,12 +1,12 @@
 {
   "railName": "P_R_BLUE_9",
   "model": {
-      "modelFile": "ModelRail_YANE_9m.mqo",
-      "textures": [["default", "textures/rail/YANE_BLUE.png", ""]],
-      "rendererPath": "scripts/RenderYANE1.js"
+    "modelFile": "ModelRail_YANE_9m.mqo",
+    "textures": [["default", "textures/rail/YANE_BLUE.png", ""]],
+    "rendererPath": "scripts/RenderYANE1.js"
   },
   "ballastWidth": 7,
-	"buttonTexture": "textures/rail/button_YANE_9m_BLUE.png",
+  "buttonTexture": "textures/rail/button_YANE_9m_BLUE.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }

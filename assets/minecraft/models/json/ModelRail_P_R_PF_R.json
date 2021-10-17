@@ -1,10 +1,11 @@
 {
   "railName": "P_R2_PF_R",
   "model": {
-      "modelFile": "ModelRail_PF_R.mqo",
-      "textures": [["default", "textures/rail/PF.png", ""]]},
+    "modelFile": "ModelRail_PF_R.mqo",
+    "textures": [["default", "textures/rail/PF.png", ""]]
+  },
   "ballastWidth": 1,
-	"buttonTexture": "textures/rail/button_PF_R.png",
+  "buttonTexture": "textures/rail/button_PF_R.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }
