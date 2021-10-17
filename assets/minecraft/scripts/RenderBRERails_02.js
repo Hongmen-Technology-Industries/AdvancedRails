@@ -43,6 +43,7 @@ function init(par1, par2) {
   joint = renderer.registerParts(new Parts("joint"));
   anchorR = renderer.registerParts(new Parts("anchorR"));
   anchorL = renderer.registerParts(new Parts("anchorL"));
+  wallE = renderer.registerParts(new Parts("wallE"));
   wallR = [];
   wallL = [];
   for (var j = 1; j <= 13; j++) {
@@ -142,6 +143,7 @@ function renderRailStatic2(tileEntity, par2, par4, par6) {
       wallL[Wpos].render(renderer);
       grooveR.render(renderer);
       grooveL.render(renderer);
+      if (i == 0 || i == max) wallE.render(renderer);
       GL11.glPopMatrix();
     }
     GL11.glPopMatrix();
