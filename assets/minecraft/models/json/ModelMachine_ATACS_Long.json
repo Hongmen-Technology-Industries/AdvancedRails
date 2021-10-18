@@ -6,7 +6,7 @@
   },
   "buttonTexture": "textures/machine/button_ATACS_Long.png",
   "machineType": "Antenna_Send",
-  "smoothing": ture,
+  "smoothing": true,
   "doCulling": true,
   "accuracy": "LOW"
 
