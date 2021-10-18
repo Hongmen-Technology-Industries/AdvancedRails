@@ -17,5 +17,5 @@ jobs:
           node-version: 12.x
       - name: npm setup
         run: |
-          npm ci
+          npm install prettier
           npm run prettier --write ${FILE_PATTERN}
