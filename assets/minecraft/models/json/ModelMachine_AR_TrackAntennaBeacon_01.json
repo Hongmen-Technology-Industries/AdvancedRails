@@ -1,0 +1,13 @@
+{
+  "name": "AR_TAB_01",
+  "model": {
+    "modelFile": "AR_TrackAntennaBeacon_01.mqo",
+    "textures": [["mat1", "textures/rail/AR_TAB_01.png", ""]]
+  },
+  "buttonTexture": "textures/machine/button_AR_TrackAntennaBeacon_01.png",
+  "machineType": "Antenna_Receive",
+  "smoothing": true,
+  "doCulling": false,
+  "accuracy": "LOW",
+  "tags": "BRE AR Rails"
+}
