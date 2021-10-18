@@ -1,22 +1,27 @@
-name: Prettier
+name: Continuous Integration
 
+# This action works with pull requests and pushes
 on:
-  pull_request:
-
-env:
-  FILE_PATTERN: "**/*.{js,json}"
+  push:
+    branches:
+      - main
 
 jobs:
-  lint:
+  prettier:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
 
-      - uses: actions/setup-node@v1
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
         with:
-          node-version: 12.x
-      - name: Run Prettier
-        run: |
-          npm init
-          npm install prettier
-          npm run prettier --write ${FILE_PATTERN}
+          # Make sure the actual branch is checked out when running on pull requests
+          ref: ${{ github.head_ref }}
+          # This is important to fetch the changes to the previous commit
+          fetch-depth: 0
+
+      - name: Prettify code
+        uses: creyD/prettier_action@v4.0
+        with:
+          # This part is also where you can pass other options, for example:
+          prettier_options: --check **/*.{js,json}
+          only_changed: true
