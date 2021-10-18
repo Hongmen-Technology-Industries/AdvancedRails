@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 12.x
+      - name: npm setup
+      - run: npm ci
       - name: Run Prettier
-        run: |
-          yarn install
-          yarn prettier --write ${FILE_PATTERN}
+      - run: npm run prettier --write ${FILE_PATTERN}
