@@ -1,0 +1,15 @@
+{
+  "name": "KHK_Radder",
+  "model": {
+    "modelFile": "KHK_Radder.mqo",
+    "textures": [["default", "textures/light/KHK_Radder.png", ""]]
+  },
+  "buttonTexture": "textures/light/KHK_Radder.png",
+  "machineType": "Light",
+  "rotateByMetadata": true,
+  "brightness": [0, 0],
+  "smoothing": true,
+  "doCulling": true,
+  "tags": "BRE AR",
+  "accuracy": "LOW"
+}

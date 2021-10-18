@@ -1,12 +1,12 @@
 {
   "railName": "P_R_SHINJUKU7",
   "model": {
-      "modelFile": "ModelRail_SHINJUKU_CLINE.mqo",
-      "textures": [["default", "textures/rail/SHINJUKU.png", ""]],
-      "rendererPath": "scripts/RenderYANE1.js"
+    "modelFile": "ModelRail_SHINJUKU_CLINE.mqo",
+    "textures": [["default", "textures/rail/SHINJUKU.png", ""]],
+    "rendererPath": "scripts/RenderYANE1.js"
   },
   "ballastWidth": 7,
-	"buttonTexture": "textures/rail/button_SHINJUKU_CLINE.png",
+  "buttonTexture": "textures/rail/button_SHINJUKU_CLINE.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }
