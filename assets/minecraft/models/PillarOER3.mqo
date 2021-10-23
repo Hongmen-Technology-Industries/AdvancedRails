@@ -2,16 +2,16 @@ Metasequoia Document
 Format Text Ver 1.0
 
 Scene {
-	pos -32.3801308 -573.089233 2590.12231
+	pos -32.3801308 -573.089233 10609.1416
 	lookat 0 0 0
 	head -4.7508
 	pich -0.0300
 	ortho 0
-	zoom2 6.2615
+	zoom2 1.5287
 	amb 0.250 0.250 0.250
 }
 Material 1 {
-	"mat1" col(1.000 1.000 1.000 1.000) dif(0.800) amb(0.600) emi(0.000) spc(0.000) power(5.00) tex("C:\Users\shout\AppData\Roaming\.minecraft\mods\Kozu_RE_X\assets\minecraft\textures\rail\PO.png")
+	"mat1" col(1.000 1.000 1.000 1.000) dif(0.800) amb(0.600) emi(0.000) spc(0.000) power(5.00)
 }
 Object "Pillar1" {
 	visible 15

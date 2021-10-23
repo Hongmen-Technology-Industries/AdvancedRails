@@ -15,6 +15,8 @@ function init(par1, par2) {
   fixtureR = renderer.registerParts(new Parts("FiR"));
   leftParts = renderer.registerParts(new Parts("RaL", "sideL"));
   rightParts = renderer.registerParts(new Parts("RaR", "sideR"));
+  start = renderer.registerParts(new Parts("start"));
+  end = renderer.registerParts(new Parts("end"));
   tongFL = renderer.registerParts(new Parts("TLF"));
   tongBL = renderer.registerParts(new Parts("TLB"));
   tongFR = renderer.registerParts(new Parts("TRF"));
@@ -41,11 +43,24 @@ function shouldRenderObject(tileEntity, objName, len, pos) {
     }
     return false;
   } else {
+    var rm2 = tileEntity.getRailMap(null);
+    var railLength = rm2.getLength();
+    var max = Math.floor(railLength * 2.0);
     if (
       fixtureL.containsName(objName) ||
       fixtureR.containsName(objName) ||
       leftParts.containsName(objName) ||
       rightParts.containsName(objName)
+    ) {
+      return true;
+    }
+    if(
+      start.containsName(objName) && (pos == 0)
+    ) {
+      return true;
+    }
+    else if(
+      end.containsName(objName) && (pos == max)
     ) {
       return true;
     }
