@@ -6,7 +6,7 @@
     "rendererPath": "scripts/RenderAR_01.js"
   },
   "ballastWidth": 1,
-  "buttonTexture": "textures/railsButton/test.png",
+  "buttonTexture": "textures/railsButton/button_HTI_PF_R_101.png",
   "tags": "BRE AR Rails",
   "accuracy": "LOW"
 }

@@ -1,0 +1,12 @@
+{
+  "railName": "1067mm_Wood!!!!!!!!HTI_Youheki_R",
+  "model": {
+    "modelFile": "BRE_1067_Youheki.mqo",
+    "textures": [["default", "textures/rail/bre_01_10.png", ""]],
+    "rendererPath": "scripts/RenderAR_02.js"
+  },
+  "ballastWidth": 3,
+  "buttonTexture": "textures/railsButton/button_BRERail_Youheki_R.png",
+  "tags": "BRE AR Rails",
+  "accuracy": "LOW"
+}
