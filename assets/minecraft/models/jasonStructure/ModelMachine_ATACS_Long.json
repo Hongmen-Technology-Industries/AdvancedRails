@@ -1,13 +1,12 @@
 {
   "name": "ATACS_Long",
   "model": {
-      "modelFile": "ATACS_Long.mqo",
-      "textures": [["mat1", "textures/machine/ATACS_tex.png", ""]]
+    "modelFile": "ATACS_Long.mqo",
+    "textures": [["mat1", "textures/machine/ATACS_tex.png", ""]]
   },
   "buttonTexture": "textures/machine/button_ATACS_Long.png",
   "machineType": "Antenna_Send",
-  "smoothing": ture,
+  "smoothing": true,
   "doCulling": true,
   "accuracy": "LOW"
-
 }

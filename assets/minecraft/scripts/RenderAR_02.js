@@ -7,8 +7,8 @@ importPackage(Packages.jp.ngt.rtm);
 var currentRailIndexField;
 
 function init(par1, par2) {
-  Base = renderer.registerParts(new Parts("Base")); 
-  End = renderer.registerParts(new Parts("End")); 
+  Base = renderer.registerParts(new Parts("Base"));
+  End = renderer.registerParts(new Parts("End"));
   wall = [];
   for (var j = 1; j <= 8; j++) {
     wall.push(renderer.registerParts(new Parts("Ba" + j.toString())));
@@ -86,7 +86,7 @@ function renderRailStatic2(tileEntity, par2, par4, par6, index) {
       }
       Base.render(renderer);
       wall[wpos].render(renderer);
-      if(i == 0 || i == max){
+      if (i == 0 || i == max) {
         End.render(renderer);
       }
       GL11.glPopMatrix();

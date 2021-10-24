@@ -52,14 +52,14 @@ function renderRailStatic2(tileEntity, par2, par4, par6, index) {
     var scale = sLen * 2;
 
     for (var i = 0; i <= max; ++i) {
-
-      var cant = rm2.getCant(max, i)
+      var cant = rm2.getCant(max, i);
       var cantRad = cant * (Math.PI / 180);
       var cantHeigt = 1.5 * Math.abs(Math.sin(cantRad));
 
       var p1 = rm2.getRailPos(max, i);
-      var y0 = rm2.getRailHeight(max, i) - origHeight + origCantHeigt - cantHeigt;
-      
+      var y0 =
+        rm2.getRailHeight(max, i) - origHeight + origCantHeigt - cantHeigt;
+
       var x0 = p1[1] - origPos[1];
       var z0 = p1[0] - origPos[0];
       var roll = rm2.getCant(max, i);
