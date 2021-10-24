@@ -2,7 +2,7 @@
 [![MCVer](https://img.shields.io/badge/Minecraft-1.7.10-brightgreen)](https://www.minecraft.net/)
 [![ForgeVer](https://img.shields.io/badge/Forge-10.13.4.1614-important)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html)
 [![KPVer](https://img.shields.io/badge/KaizPatchX-1.3.0-informational)](https://github.com/Kai-Z-JP/KaizPatchX/releases/tag/v1.3.0)  
-[![MCVer](https://img.shields.io/badge/Minecraft-1.7.10-brightgreen)](https://www.minecraft.net/)
+[![MCVer](https://img.shields.io/badge/Minecraft-1.12.2-brightgreen)](https://www.minecraft.net/)
 [![ForgeVer](https://img.shields.io/badge/Forge-14.23.5.2855-important)](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html)
 [![RTMVer](https://img.shields.io/badge/RealTrainMod-2.4.21--40-informational)](https://www.curseforge.com/minecraft/mc-mods/realtrainmod/files/3061973)  
 [![DLCount](https://img.shields.io/github/downloads/Hongmen-Technology-Industries/AdvancedRails/total)](https://github.com/Hongmen-Technology-Industries/AdvancedRails/releases)
