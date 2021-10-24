@@ -54,14 +54,9 @@ function shouldRenderObject(tileEntity, objName, len, pos) {
     ) {
       return true;
     }
-    if(
-      start.containsName(objName) && (pos == 0)
-    ) {
+    if (start.containsName(objName) && pos == 0) {
       return true;
-    }
-    else if(
-      end.containsName(objName) && (pos == max)
-    ) {
+    } else if (end.containsName(objName) && pos == max) {
       return true;
     }
     return false;
