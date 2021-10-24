@@ -1,0 +1,15 @@
+{
+  "name": "KHK_Rudder_FRP",
+  "model": {
+    "modelFile": "KHK_Rudder.mqo",
+    "textures": [["default", "textures/machine/KHK_Rudder_FRP.png", ""]]
+  },
+  "buttonTexture": "textures/machine/button_KHK_rudder_FRP.png",
+  "machineType": "Light",
+  "rotateByMetadata": true,
+  "brightness": [0, 0],
+  "smoothing": true,
+  "doCulling": true,
+  "tags": "BRE AR",
+  "accuracy": "LOW"
+}
