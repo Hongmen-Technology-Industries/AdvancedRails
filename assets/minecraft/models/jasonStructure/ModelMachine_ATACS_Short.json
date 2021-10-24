@@ -1,0 +1,13 @@
+{
+  "name": "ATACS_Short",
+  "model": {
+      "modelFile": "ATACS_Short.mqo",
+      "textures": [["mat1", "textures/machine/ATACS_tex.png", ""]]
+  },
+  "buttonTexture": "textures/machine/button_ATACS_Short.png",
+  "machineType": "Antenna_Send",
+  "smoothing": ture,
+  "doCulling": true,
+  "accuracy": "LOW"
+
+}

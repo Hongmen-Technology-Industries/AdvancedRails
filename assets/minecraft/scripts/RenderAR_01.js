@@ -52,8 +52,14 @@ function renderRailStatic2(tileEntity, par2, par4, par6, index) {
     var scale = sLen * 2;
 
     for (var i = 0; i <= max; ++i) {
+
+      var cant = rm2.getCant(max, i)
+      var cantRad = cant * (Math.PI / 180);
+      var cantHeigt = 1.5 * Math.abs(Math.sin(cantRad));
+
       var p1 = rm2.getRailPos(max, i);
-      var y0 = rm2.getRailHeight(max, i) - origHeight + origCantHeigt;
+      var y0 = rm2.getRailHeight(max, i) - origHeight + origCantHeigt - cantHeigt;
+      
       var x0 = p1[1] - origPos[1];
       var z0 = p1[0] - origPos[0];
       var roll = rm2.getCant(max, i);
@@ -62,6 +68,7 @@ function renderRailStatic2(tileEntity, par2, par4, par6, index) {
       var yawRad = yaw * (Math.PI / 180);
       var yawSin = Math.sin(yawRad);
       var yawCos = Math.cos(yawRad);
+
       var brightness = renderer.getBrightness(
         renderer.getWorld(tileEntity),
         p1[1],
@@ -70,11 +77,9 @@ function renderRailStatic2(tileEntity, par2, par4, par6, index) {
       );
       renderer.setBrightness(brightness);
       GL11.glPushMatrix();
-
       GL11.glTranslatef(x0, y0, z0);
       GL11.glRotatef(yaw, 0.0, 1.0, 0.0);
       GL11.glRotatef(pitch, 1.0, 0.0, 0.0);
-      GL11.glRotatef(roll, 0.0, 0.0, 1.0);
       if (this.isRightRail(tileEntity, index)) {
         GL11.glRotatef(180, 0.0, 1.0, 0.0);
       }
