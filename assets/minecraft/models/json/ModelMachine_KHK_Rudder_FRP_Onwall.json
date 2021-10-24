@@ -4,7 +4,7 @@
     "modelFile": "KHK_Rudder_Onwall.mqo",
     "textures": [["default", "textures/machine/KHK_Rudder_FRP.png", ""]]
   },
-  "buttonTexture": "textures/machine/button_KHK_rudder.png",
+  "buttonTexture": "textures/machine/button_KHK_rudder_Onwall.png",
   "machineType": "Light",
   "rotateByMetadata": true,
   "brightness": [0, 0],
