@@ -3,112 +3,135 @@ Advanced Rails
 made by Hongmen Technology Group
 
 
-1. “®ìŠÂ‹«
+1. å‹•ä½œç’°å¢ƒ
 
-•K{
-ERealTrainMod 1.12.2(NGT) or 1.7.10(KaizPatch) 
-ERTM Wire51 Pack
+å¿…é ˆ
+ãƒ»RealTrainMod 1.12.2(NGT) or 1.7.10(KaizPatch) 
+ãƒ»RTM Wire51 Pack
 
-„§
-ERAM 16GBˆÈã
-
-
-2. “±“ü
-0, Kozu_RE_X‚Ü‚½‚ÍBetter_Rail_Electronics‚ðmodsƒtƒ@ƒCƒ‹‚©‚çíœi‚·‚Å‚É“±“ü‚³‚ê‚Ä‚¢‚éê‡j
-1, Advanced_Rails.zip‚ðmodsƒtƒHƒ‹ƒ_‚ÉƒRƒs[
-2, Minecraft‚ð‹N“®‚µAŠeƒ‚ƒfƒ‹‚ª’Ç‰Á‚³‚ê‚Ä‚¢‚é‚±‚Æ‚ðŠm”F
-
-3A’†g
-
-ƒ^ƒO"BRE"‚ÅŒŸõ‰Â”\
-
-	ƒŒ[ƒ‹ƒ‚ƒfƒ‹
-		EPC––Ø ƒoƒ‰ƒXƒg@V‹Œ@1067/1435@•Ç¶‰E
-		EƒXƒ‰ƒu‹O“¹@1067/1435@•Ç¶‰E
-
-		E·“y ¶‰E
-		E’Eü–hŽ~ƒK[ƒh@¶‰E
-		E‰~“xYi•ª—£ji¶‰E‹¤’Êj
-			
-		EVh‰wƒz[ƒ€‰®ª
-@@@@@@@@’†‰›‰õ‘¬ü@’†‰›ü“Á‹}ƒz[ƒ€
-
-		E“‡Ž®—pƒz[ƒ€‰®ª
-		•:7m 9m  
-		F:Â —Î …F ƒIƒŒƒ“ƒW ƒ‰ƒCƒ“ƒJƒ‰[–³‚µ ’Œ–³‚µ
-
-		E‘ÎŒüŽ®—pƒz[ƒ€‰®ª
-		•:3m 7m ¶‰E
-
-		E•Ç
-		“Œ••—•ÇAƒuƒƒbƒN•»AƒlƒbƒgƒtƒFƒ“ƒX@¶‰E
-
-		Eƒz[ƒ€
-		°–Ê 
-
-		EŠ}Î&—U“±ƒuƒƒbƒN@V‹Œ@¶‰E
-		
-		E•¡ü‹´Œ…i¬“c‹}‘½–€ì‹´—ÀƒXƒ^ƒCƒ‹j
-		
-		E•¡üƒgƒ“ƒlƒ‹i¬“c‹}‘ãX–ØãŒ´`”~‚ª‹uƒXƒ^ƒCƒ‹j
-	
-	ƒƒCƒ„[ƒ‚ƒfƒ‹
-@@@@@@@@EŠpƒgƒ‰ƒXƒr[ƒ€
-
-		EVƒgƒ‰ƒXƒr[ƒ€
-
-		E‚©‚²Œ^ƒgƒ‰ƒXƒr[ƒ€
-
-		EH|ƒr[ƒ€@—ÎAŠD
-
-		E|ŠÇƒr[ƒ€@
-
-		E|ŠÇƒr[ƒ€@•ûñ•t
-
-		E’Pƒr[ƒ€
-		
-		EƒVƒ“ƒvƒ‹ƒJƒeƒiƒŠ[@40m
-		
-		E’¼—¬‚«“dü@40m
-	
-	ŠVŽqƒ‚ƒfƒ‹
-		E‚«“dü‚â‚®‚çEŠVŽq@“Œ¼“ì–k
-		
-		EH|ƒr[ƒ€—pÚ‘±ƒ|ƒCƒ“ƒg
-
-		EƒRƒ“ƒNƒŠ[ƒg‰Ëü’Œ@’Êí/W51 ƒIƒtƒZƒbƒg—L–³
-	
-		Eƒgƒ‰ƒX‰Ëü’Œ@’Êí/W51 ƒIƒtƒZƒbƒg—L–³
-
-		E|ŠÇ‰Ëü’Œ@’Êí/W51 ƒIƒtƒZƒbƒg—L–³
-
-	Æ–¾ƒ‚ƒfƒ‹
-		Eƒr[ƒ€’Ý‰ºM†‹@—pŽx’Œ
-
-		EáŠQ•¨ŒŸ’m‘•’u@•W€@10:1ƒuƒƒbƒNLER
-
-		Eæ~‘ä@Žè‚·‚è—L–³
-
-		EM†’Œ@|ŠÇ/ƒRƒ“ƒNƒŠ 7/6/5m
-
-		E‹@ŠíŽû”[” 
-
-		Eƒzƒbƒ`ƒLƒX ƒIƒtƒZƒbƒg—L–³
-	
-		E‘Ò‡Žº
+æŽ¨å¥¨
+ãƒ»RAM 16GBä»¥ä¸Š
 
 
-6. XV—š—ð
-E2021/09/17 Version 1.0@@@ŒöŠJ
-E2021/09/18 Version 1.1@@@ƒ‚ƒfƒ‹’Ç‰ÁACC-BY“K—p
-E2021/09/19 Version 1.1.2@@‰Ëü’Œ‚Éˆê•”·•ª‚ð’Ç‰Á
-E2021/09/21 Version 1.2@@@ƒ‚ƒfƒ‹’Ç‰Á
-E2021/9/29 Version 1.3      ƒ‚ƒfƒ‹’Ç‰Á –¼Ì•ÏX
-E2021/10/14 Version 1.4      ƒ‚ƒfƒ‹’Ç‰Á Œ —˜‚ðˆÚŠÇ
+2. å°Žå…¥
+0, Kozu_RE_Xã¾ãŸã¯Better_Rail_Electronicsã‚’modsãƒ•ã‚¡ã‚¤ãƒ«ã‹ã‚‰å‰Šé™¤ï¼ˆã™ã§ã«å°Žå…¥ã•ã‚Œã¦ã„ã‚‹å ´åˆï¼‰
+1, Advanced_Rails.zipã‚’modsãƒ•ã‚©ãƒ«ãƒ€ã«ã‚³ãƒ”ãƒ¼
+2, Minecraftã‚’èµ·å‹•ã—ã€å„ãƒ¢ãƒ‡ãƒ«ãŒè¿½åŠ ã•ã‚Œã¦ã„ã‚‹ã“ã¨ã‚’ç¢ºèª
+
+3ã€ä¸­èº«
+
+ã‚¿ã‚°"BRE"ã§æ¤œç´¢å¯èƒ½
+ãƒ¬ãƒ¼ãƒ«ãƒ¢ãƒ‡ãƒ«
+
+    PCæž•æœ¨
+        ãƒãƒ©ã‚¹ãƒˆ:æœ‰/ç„¡/ãƒ­ãƒ¼ãƒã‚¤ãƒˆ
+        çŠ¶æ…‹:æ–°/å¤
+        è»Œé–“:1067mm/1435mm
+        å£:å·¦/å³
+    ã‚¹ãƒ©ãƒ–è»Œé“
+        è»Œé–“:1067mm/1435mm
+        å£:å·¦/å³
+    ç››åœŸ
+        ä½ç½®:å·¦/å³
+    æ©‹æž•æœ¨(ç„¡é“åºŠ)
+        1067mm/1435mm
+    è„±ç·šé˜²æ­¢ã‚¬ãƒ¼ãƒ‰
+        ä½ç½®:å·¦/å³
+    æ“å£ -ä½ç½®:å·¦/å³
+    å††åº¦æ­ï¼ˆåˆ†é›¢ï¼‰ï¼ˆå·¦å³å…±é€šï¼‰
+    æ–°å®¿é§…ãƒ›ãƒ¼ãƒ å±‹æ ¹
+        ä¸­å¤®å¿«é€Ÿç·šãƒ›ãƒ¼ãƒ 
+        ä¸­å¤®ç·šç‰¹æ€¥ãƒ›ãƒ¼ãƒ 
+    å³¶å¼ç”¨ãƒ›ãƒ¼ãƒ å±‹æ ¹
+        å¹…:7m/9m
+        è‰²:é’/ç·‘/æ°´è‰²/ã‚ªãƒ¬ãƒ³ã‚¸
+        ãƒ©ã‚¤ãƒ³ã‚«ãƒ©ãƒ¼:æœ‰/ç„¡
+        æŸ±:æœ‰/ç„¡
+    å¯¾å‘å¼ç”¨ãƒ›ãƒ¼ãƒ å±‹æ ¹
+        å¹…:3m/7m
+        ä½ç½®:å·¦/å³
+    å£
+        ã‚¹ã‚¿ã‚¤ãƒ«:æ±æ­¦é¢¨å£/ãƒ–ãƒ­ãƒƒã‚¯å¡€/ãƒãƒƒãƒˆãƒ•ã‚§ãƒ³ã‚¹
+        ä½ç½®:å·¦/å³
+    ãƒ›ãƒ¼ãƒ 
+        åºŠé¢
+        é«˜æ©Ÿèƒ½ãƒ›ãƒ¼ãƒ ç«¯
+            ä½ç½®:å·¦/å³
+    ç¬ çŸ³&èª˜å°Žãƒ–ãƒ­ãƒƒã‚¯
+        çŠ¶æ…‹:æ–°/å¤
+        ä½ç½®:å·¦/å³
+    è¤‡ç·šæ©‹æ¡ï¼ˆå°ç”°æ€¥å¤šæ‘©å·æ©‹æ¢ã‚¹ã‚¿ã‚¤ãƒ«ï¼‰
+    è¤‡ç·šãƒˆãƒ³ãƒãƒ«ï¼ˆå°ç”°æ€¥ä»£ã€…æœ¨ä¸ŠåŽŸï½žæ¢…ãŒä¸˜ã‚¹ã‚¿ã‚¤ãƒ«ï¼‰
+
+ãƒ¯ã‚¤ãƒ¤ãƒ¼ãƒ¢ãƒ‡ãƒ«
+
+    è§’ãƒˆãƒ©ã‚¹ãƒ“ãƒ¼ãƒ 
+    Vãƒˆãƒ©ã‚¹ãƒ“ãƒ¼ãƒ 
+    ã‹ã”åž‹ãƒˆãƒ©ã‚¹ãƒ“ãƒ¼ãƒ 
+    Hé‹¼ãƒ“ãƒ¼ãƒ 
+        è‰²:ç·‘/ç°
+    é‹¼ç®¡ãƒ“ãƒ¼ãƒ 
+        æ–¹æ–:æœ‰/ç„¡
+    å˜ãƒ“ãƒ¼ãƒ 
+    ã‚·ãƒ³ãƒ—ãƒ«ã‚«ãƒ†ãƒŠãƒªãƒ¼ 40m
+    ç›´æµãé›»ç·š 40m
+
+ç¢å­ãƒ¢ãƒ‡ãƒ«
+
+    ãé›»ç·šã‚„ãã‚‰ãƒ»ç¢å­
+        æ–¹è§’:æ±/è¥¿/å—/åŒ—
+    Hé‹¼ãƒ“ãƒ¼ãƒ ç”¨æŽ¥ç¶šãƒã‚¤ãƒ³ãƒˆ
+    ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆæž¶ç·šæŸ±
+        æž¶ç·šé«˜:é€šå¸¸/W51
+        ã‚ªãƒ•ã‚»ãƒƒãƒˆ:æœ‰/ç„¡
+    ãƒˆãƒ©ã‚¹æž¶ç·šæŸ±
+        æž¶ç·šé«˜:é€šå¸¸/W51
+        ã‚ªãƒ•ã‚»ãƒƒãƒˆ:æœ‰/ç„¡
+    é‹¼ç®¡æž¶ç·šæŸ±
+        æž¶ç·šé«˜:é€šå¸¸/W51
+        ã‚ªãƒ•ã‚»ãƒƒãƒˆ:æœ‰/ç„¡
+
+ç…§æ˜Žãƒ¢ãƒ‡ãƒ«
+
+    ãƒ“ãƒ¼ãƒ åŠä¸‹ä¿¡å·æ©Ÿç”¨æ”¯æŸ±
+    éšœå®³ç‰©æ¤œçŸ¥è£…ç½® æ¨™æº– 10:1ãƒ–ãƒ­ãƒƒã‚¯Lãƒ»R
+        æ–¹å‘:æ­£é¢/10:1ãƒ–ãƒ­ãƒƒã‚¯Lãƒ»R
+    ä¹—é™å°
+        æ‰‹ã™ã‚Š:æœ‰/ç„¡
+    ä¿¡å·æŸ±
+        ç´ æ:é‹¼ç®¡/ã‚³ãƒ³ã‚¯ãƒªãƒ¼ãƒˆ
+        é«˜ã•:7m/6m/5m
+    æ©Ÿå™¨åŽç´ç®±
+    ãƒ›ãƒƒãƒã‚­ã‚¹
+        ã‚ªãƒ•ã‚»ãƒƒãƒˆ:æœ‰/ç„¡
+    å¾…åˆå®¤
+    çµ¶ç¸ã¯ã—ã”
+        ç´ æ:ç«¹/FRP
+        è¨­ç½®æ–¹å¼:åœ°é¢è¨­ç½®/å£è¨­ç½®
+
+åˆ—è»Šæ¤œçŸ¥å™¨ãƒ¢ãƒ‡ãƒ«
+
+    è¸åˆ‡ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—è£…ç½®(åœ°ä¸Šå­)
+
+ATCãƒ¢ãƒ‡ãƒ«
+
+    ATACSä½ç½®è£œæ­£åœ°ä¸Šå­
+        ç¨®é¡ž:ãƒ­ãƒ³ã‚°/ã‚·ãƒ§ãƒ¼ãƒˆ
 
 
 
-–{ì•i‚ÍCC-BYƒ‰ƒCƒZƒ“ƒX‚Ì‰º‚Å’ñ‹Ÿ‚³‚ê‚Ü‚·
+6. æ›´æ–°å±¥æ­´
+ãƒ»2021/09/17 Version 1.0ã€€ã€€ã€€å…¬é–‹
+ãƒ»2021/09/18 Version 1.1ã€€ã€€ã€€ãƒ¢ãƒ‡ãƒ«è¿½åŠ ã€CC-BYé©ç”¨
+ãƒ»2021/09/19 Version 1.1.2ã€€ã€€æž¶ç·šæŸ±ã«ä¸€éƒ¨å·®åˆ†ã‚’è¿½åŠ 
+ãƒ»2021/09/21 Version 1.2ã€€ã€€ã€€ãƒ¢ãƒ‡ãƒ«è¿½åŠ 
+ãƒ»2021/9/29 Version 1.3      ãƒ¢ãƒ‡ãƒ«è¿½åŠ  åç§°å¤‰æ›´
+ãƒ»2021/10/14 Version 1.4      ãƒ¢ãƒ‡ãƒ«è¿½åŠ  æ¨©åˆ©ã‚’ç§»ç®¡
+ãƒ»2021/10/24 Version 1.5      ãƒ¢ãƒ‡ãƒ«è¿½åŠ 
+
+
+
+æœ¬ä½œå“ã¯CC-BYãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã®ä¸‹ã§æä¾›ã•ã‚Œã¾ã™
 https://creativecommons.org/licenses/by/3.0/deed.ja
 
 
